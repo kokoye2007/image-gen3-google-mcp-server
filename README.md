@@ -27,7 +27,7 @@ A professional Model Context Protocol (MCP) server implementation that harnesses
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gemini-imagen-mcp-server.git
+git clone https://github.com/falahgs/image-gen3-google-mcp-server.git
 cd gemini-imagen-mcp-server
 ```
 
@@ -149,4 +149,5 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 `#MCP` `#Gemini` `#Imagen3` `#AI` `#ImageGeneration` `#TypeScript` `#NodeJS` `#GoogleAI` `#ClaudeDesktop`
 
 ---
+
 Made with ❤️ by Falah G. Salieh 
